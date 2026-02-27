@@ -1,0 +1,501 @@
+prod_id,product_name,category,sub_category,cost_price,list_price
+1,Product-1,Home Appliances,Office Chair,6840.00,10537.28
+2,Product-2,Home Appliances,Microwave,6706.00,10509.57
+3,Product-3,Home Appliances,Microwave,8805.00,10963.33
+4,Product-4,Electronics,Dining Table,19714.00,31828.76
+5,Product-5,Furniture,Smartphone,15113.00,24122.85
+6,Product-6,Clothing,Microwave,8142.00,12331.44
+7,Product-7,Clothing,Office Chair,6742.00,9597.22
+8,Product-8,Electronics,Denim,923.00,1506.75
+9,Product-9,Furniture,Microwave,8905.00,11640.35
+10,Product-10,Furniture,Dining Table,13999.00,21762.48
+11,Product-11,Furniture,Smartphone,14264.00,23138.25
+12,Product-12,Electronics,Office Chair,6254.00,8690.95
+13,Product-13,Furniture,Microwave,17294.00,26262.79
+14,Product-14,Clothing,Denim,5076.00,6805.83
+15,Product-15,Electronics,Laptop,13732.00,21861.47
+16,Product-16,Clothing,Laptop,19364.00,32331.43
+17,Product-17,Clothing,Office Chair,13387.00,17194.05
+18,Product-18,Home Appliances,Microwave,5827.00,7531.12
+19,Product-19,Clothing,Laptop,9202.00,13540.46
+20,Product-20,Clothing,Office Chair,8867.00,11785.58
+21,Product-21,Home Appliances,Dining Table,6068.00,10258.31
+22,Product-22,Electronics,Smartphone,6789.00,8979.16
+23,Product-23,Furniture,Microwave,16357.00,24788.22
+24,Product-24,Furniture,Microwave,15020.00,21978.06
+25,Product-25,Home Appliances,Laptop,16959.00,24832.99
+26,Product-26,Furniture,Office Chair,10024.00,15925.49
+27,Product-27,Clothing,Microwave,2610.00,3523.37
+28,Product-28,Furniture,Microwave,16178.00,25462.37
+29,Product-29,Clothing,Denim,7944.00,11902.00
+30,Product-30,Clothing,Laptop,4198.00,6456.48
+31,Product-31,Electronics,Smartphone,17301.00,24825.09
+32,Product-32,Clothing,Laptop,6375.00,9250.54
+33,Product-33,Furniture,Dining Table,19750.00,25909.85
+34,Product-34,Home Appliances,Microwave,9300.00,12897.03
+35,Product-35,Furniture,Office Chair,7670.00,12279.88
+36,Product-36,Clothing,Laptop,10228.00,12790.52
+37,Product-37,Electronics,Denim,14749.00,20699.10
+38,Product-38,Furniture,Denim,3135.00,4652.92
+39,Product-39,Electronics,Laptop,18777.00,27577.11
+40,Product-40,Furniture,Dining Table,16986.00,24017.29
+41,Product-41,Furniture,Laptop,9111.00,12062.30
+42,Product-42,Furniture,Denim,11679.00,15153.15
+43,Product-43,Furniture,Laptop,17243.00,22085.32
+44,Product-44,Electronics,Dining Table,11659.00,18942.98
+45,Product-45,Home Appliances,Microwave,7629.00,11033.26
+46,Product-46,Home Appliances,Microwave,14568.00,19753.03
+47,Product-47,Electronics,Microwave,14601.00,20753.41
+48,Product-48,Clothing,Microwave,10572.00,13081.92
+49,Product-49,Electronics,Smartphone,16731.00,21869.39
+50,Product-50,Clothing,Smartphone,2186.00,2648.57
+51,Product-51,Electronics,Laptop,16503.00,25168.76
+52,Product-52,Furniture,Microwave,6265.00,8252.25
+53,Product-53,Clothing,Office Chair,7577.00,10108.03
+54,Product-54,Furniture,Denim,991.00,1533.10
+55,Product-55,Home Appliances,Smartphone,17006.00,22158.38
+56,Product-56,Home Appliances,Microwave,9639.00,14468.68
+57,Product-57,Furniture,Office Chair,6286.00,10277.39
+58,Product-58,Electronics,Denim,1816.00,2363.07
+59,Product-59,Electronics,Laptop,4907.00,8022.85
+60,Product-60,Electronics,Dining Table,18699.00,26143.16
+61,Product-61,Clothing,Smartphone,16500.00,22921.01
+62,Product-62,Home Appliances,Dining Table,5901.00,8498.61
+63,Product-63,Furniture,Dining Table,2130.00,3022.03
+64,Product-64,Clothing,Denim,8908.00,14927.51
+65,Product-65,Furniture,Laptop,13400.00,19278.77
+66,Product-66,Electronics,Microwave,2969.00,5036.97
+67,Product-67,Electronics,Smartphone,2451.00,3547.64
+68,Product-68,Electronics,Smartphone,16757.00,28329.19
+69,Product-69,Electronics,Office Chair,9050.00,13075.49
+70,Product-70,Electronics,Laptop,13213.00,16812.46
+71,Product-71,Electronics,Smartphone,5495.00,7257.01
+72,Product-72,Home Appliances,Denim,19224.00,27702.73
+73,Product-73,Home Appliances,Microwave,19564.00,27414.63
+74,Product-74,Electronics,Denim,13390.00,18176.34
+75,Product-75,Clothing,Denim,4942.00,6967.04
+76,Product-76,Electronics,Office Chair,18591.00,31577.04
+77,Product-77,Clothing,Denim,20369.00,27227.16
+78,Product-78,Electronics,Denim,13911.00,19440.24
+79,Product-79,Electronics,Laptop,6929.00,11685.93
+80,Product-80,Electronics,Laptop,15837.00,21748.06
+81,Product-81,Furniture,Denim,6468.00,8818.41
+82,Product-82,Clothing,Dining Table,2800.00,4237.31
+83,Product-83,Electronics,Laptop,14130.00,23386.28
+84,Product-84,Clothing,Laptop,14365.00,23204.92
+85,Product-85,Electronics,Denim,5901.00,8134.58
+86,Product-86,Clothing,Denim,11233.00,17791.42
+87,Product-87,Furniture,Microwave,7052.00,11318.82
+88,Product-88,Electronics,Laptop,13776.00,18032.61
+89,Product-89,Furniture,Dining Table,2281.00,3404.16
+90,Product-90,Clothing,Denim,10207.00,13588.71
+91,Product-91,Home Appliances,Laptop,15729.00,21274.20
+92,Product-92,Home Appliances,Smartphone,16737.00,24726.18
+93,Product-93,Furniture,Office Chair,18987.00,25937.45
+94,Product-94,Home Appliances,Office Chair,4145.00,5784.85
+95,Product-95,Electronics,Office Chair,7598.00,11321.94
+96,Product-96,Home Appliances,Laptop,13541.00,20822.39
+97,Product-97,Furniture,Denim,7313.00,9399.99
+98,Product-98,Home Appliances,Dining Table,7873.00,9475.71
+99,Product-99,Furniture,Smartphone,13007.00,18270.98
+100,Product-100,Furniture,Laptop,2954.00,4975.60
+101,Product-101,Clothing,Office Chair,18700.00,30782.67
+102,Product-102,Clothing,Microwave,6730.00,9843.23
+103,Product-103,Furniture,Smartphone,18544.00,29682.01
+104,Product-104,Furniture,Microwave,5254.00,8549.46
+105,Product-105,Furniture,Dining Table,2718.00,4465.70
+106,Product-106,Electronics,Office Chair,3663.00,5018.70
+107,Product-107,Home Appliances,Laptop,13589.00,17418.59
+108,Product-108,Clothing,Dining Table,2018.00,3277.83
+109,Product-109,Home Appliances,Smartphone,2804.00,4393.99
+110,Product-110,Clothing,Laptop,8887.00,12300.54
+111,Product-111,Furniture,Microwave,19026.00,31004.00
+112,Product-112,Home Appliances,Dining Table,2626.00,3246.12
+113,Product-113,Electronics,Laptop,11953.00,17995.86
+114,Product-114,Home Appliances,Dining Table,15932.00,19620.85
+115,Product-115,Home Appliances,Microwave,8340.00,11425.57
+116,Product-116,Clothing,Dining Table,20329.00,30759.19
+117,Product-117,Electronics,Denim,11282.00,13994.31
+118,Product-118,Electronics,Denim,11436.00,17153.62
+119,Product-119,Electronics,Denim,3461.00,5392.10
+120,Product-120,Clothing,Smartphone,5481.00,7928.33
+121,Product-121,Clothing,Dining Table,13363.00,17211.16
+122,Product-122,Home Appliances,Microwave,10056.00,15445.90
+123,Product-123,Home Appliances,Laptop,15444.00,19398.15
+124,Product-124,Home Appliances,Dining Table,18163.00,29199.31
+125,Product-125,Electronics,Microwave,19798.00,27328.44
+126,Product-126,Home Appliances,Office Chair,15369.00,19681.30
+127,Product-127,Furniture,Dining Table,3408.00,4274.70
+128,Product-128,Electronics,Office Chair,7295.00,9683.16
+129,Product-129,Electronics,Laptop,20014.00,24040.03
+130,Product-130,Electronics,Dining Table,3718.00,5692.21
+131,Product-131,Clothing,Smartphone,8052.00,9769.41
+132,Product-132,Electronics,Laptop,14763.00,22225.62
+133,Product-133,Home Appliances,Office Chair,8144.00,11120.29
+134,Product-134,Electronics,Office Chair,10824.00,17236.93
+135,Product-135,Clothing,Laptop,4152.00,5298.87
+136,Product-136,Clothing,Laptop,4812.00,7214.16
+137,Product-137,Home Appliances,Laptop,8476.00,12153.77
+138,Product-138,Clothing,Dining Table,19093.00,24515.95
+139,Product-139,Electronics,Dining Table,13424.00,20306.49
+140,Product-140,Home Appliances,Laptop,20012.00,33962.02
+141,Product-141,Clothing,Microwave,11624.00,15065.66
+142,Product-142,Clothing,Smartphone,762.00,1181.50
+143,Product-143,Home Appliances,Smartphone,6719.00,11307.48
+144,Product-144,Electronics,Dining Table,8230.00,9944.74
+145,Product-145,Home Appliances,Denim,17437.00,27336.98
+146,Product-146,Electronics,Office Chair,7738.00,11712.73
+147,Product-147,Furniture,Smartphone,14452.00,20522.49
+148,Product-148,Home Appliances,Microwave,5773.00,8313.04
+149,Product-149,Furniture,Denim,2109.00,3578.55
+150,Product-150,Clothing,Microwave,5864.00,7465.21
+151,Product-151,Furniture,Office Chair,19875.00,25541.21
+152,Product-152,Clothing,Office Chair,8884.00,13730.73
+153,Product-153,Home Appliances,Smartphone,6080.00,7384.56
+154,Product-154,Furniture,Dining Table,957.00,1444.92
+155,Product-155,Electronics,Laptop,7400.00,9142.24
+156,Product-156,Clothing,Denim,10010.00,13298.84
+157,Product-157,Furniture,Smartphone,9099.00,14024.60
+158,Product-158,Furniture,Microwave,7753.00,10682.69
+159,Product-159,Furniture,Office Chair,10512.00,17131.50
+160,Product-160,Electronics,Denim,16936.00,20959.80
+161,Product-161,Electronics,Smartphone,4651.00,7768.05
+162,Product-162,Furniture,Dining Table,16565.00,24453.70
+163,Product-163,Electronics,Smartphone,13139.00,16518.54
+164,Product-164,Electronics,Smartphone,13386.00,21016.59
+165,Product-165,Electronics,Office Chair,8613.00,11596.80
+166,Product-166,Furniture,Office Chair,4532.00,6672.75
+167,Product-167,Electronics,Microwave,4299.00,6245.90
+168,Product-168,Home Appliances,Denim,6289.00,9226.45
+169,Product-169,Furniture,Denim,4226.00,6960.57
+170,Product-170,Home Appliances,Dining Table,2241.00,2806.73
+171,Product-171,Clothing,Dining Table,6923.00,10454.40
+172,Product-172,Furniture,Dining Table,8548.00,11652.35
+173,Product-173,Electronics,Dining Table,2628.00,3156.80
+174,Product-174,Furniture,Denim,6798.00,10776.34
+175,Product-175,Furniture,Microwave,12642.00,17025.63
+176,Product-176,Clothing,Smartphone,2276.00,2926.56
+177,Product-177,Furniture,Denim,15130.00,23727.25
+178,Product-178,Clothing,Microwave,12117.00,19207.00
+179,Product-179,Clothing,Microwave,8920.00,14976.37
+180,Product-180,Home Appliances,Smartphone,8856.00,10896.31
+181,Product-181,Home Appliances,Office Chair,7675.00,12856.06
+182,Product-182,Home Appliances,Office Chair,2914.00,4537.17
+183,Product-183,Clothing,Laptop,11961.00,14515.65
+184,Product-184,Clothing,Microwave,3575.00,5745.44
+185,Product-185,Home Appliances,Office Chair,4729.00,6745.62
+186,Product-186,Electronics,Laptop,2144.00,2887.08
+187,Product-187,Clothing,Office Chair,8575.00,12049.78
+188,Product-188,Clothing,Office Chair,12112.00,17792.30
+189,Product-189,Clothing,Denim,3797.00,5499.45
+190,Product-190,Furniture,Smartphone,19207.00,23813.95
+191,Product-191,Electronics,Laptop,20401.00,34230.58
+192,Product-192,Home Appliances,Dining Table,17466.00,21820.76
+193,Product-193,Furniture,Microwave,2562.00,3757.81
+194,Product-194,Home Appliances,Dining Table,9546.00,13953.43
+195,Product-195,Furniture,Denim,8165.00,13020.79
+196,Product-196,Furniture,Microwave,11211.00,15813.34
+197,Product-197,Electronics,Dining Table,12974.00,18016.37
+198,Product-198,Furniture,Microwave,9752.00,16483.91
+199,Product-199,Electronics,Microwave,1684.00,2696.03
+200,Product-200,Electronics,Smartphone,17332.00,22449.17
+201,Product-201,Furniture,Microwave,9885.00,12599.02
+202,Product-202,Home Appliances,Dining Table,8438.00,11656.06
+203,Product-203,Electronics,Smartphone,9243.00,13010.49
+204,Product-204,Electronics,Microwave,18750.00,25112.71
+205,Product-205,Furniture,Smartphone,15273.00,21292.74
+206,Product-206,Home Appliances,Office Chair,7070.00,10817.31
+207,Product-207,Furniture,Smartphone,17767.00,23979.63
+208,Product-208,Clothing,Office Chair,18154.00,24706.84
+209,Product-209,Furniture,Smartphone,11324.00,15779.25
+210,Product-210,Home Appliances,Smartphone,9781.00,12223.97
+211,Product-211,Clothing,Dining Table,13214.00,19296.53
+212,Product-212,Furniture,Smartphone,1807.00,3029.44
+213,Product-213,Home Appliances,Laptop,18330.00,23365.32
+214,Product-214,Electronics,Dining Table,14131.00,22083.66
+215,Product-215,Clothing,Denim,9516.00,12074.69
+216,Product-216,Electronics,Smartphone,8178.00,9971.15
+217,Product-217,Furniture,Office Chair,2255.00,3438.95
+218,Product-218,Clothing,Laptop,17994.00,24246.10
+219,Product-219,Furniture,Microwave,5856.00,9295.05
+220,Product-220,Home Appliances,Office Chair,1210.00,1492.35
+221,Product-221,Home Appliances,Dining Table,5809.00,9466.14
+222,Product-222,Home Appliances,Office Chair,9551.00,11862.24
+223,Product-223,Furniture,Office Chair,687.00,1088.42
+224,Product-224,Clothing,Smartphone,14277.00,23494.52
+225,Product-225,Home Appliances,Smartphone,3895.00,5031.55
+226,Product-226,Clothing,Office Chair,1268.00,1539.30
+227,Product-227,Electronics,Office Chair,9203.00,11330.18
+228,Product-228,Home Appliances,Laptop,3413.00,4725.85
+229,Product-229,Home Appliances,Microwave,19353.00,23326.48
+230,Product-230,Home Appliances,Dining Table,10658.00,17894.14
+231,Product-231,Furniture,Smartphone,11634.00,16123.02
+232,Product-232,Home Appliances,Office Chair,4219.00,6348.62
+233,Product-233,Electronics,Denim,14318.00,19846.90
+234,Product-234,Electronics,Microwave,3794.00,5340.48
+235,Product-235,Furniture,Microwave,4089.00,5073.37
+236,Product-236,Electronics,Office Chair,19439.00,25528.67
+237,Product-237,Electronics,Dining Table,11916.00,19064.75
+238,Product-238,Clothing,Denim,4756.00,6560.95
+239,Product-239,Clothing,Smartphone,13616.00,21125.54
+240,Product-240,Clothing,Dining Table,19868.00,33458.75
+241,Product-241,Clothing,Microwave,17119.00,25251.19
+242,Product-242,Home Appliances,Office Chair,9823.00,13491.67
+243,Product-243,Electronics,Office Chair,3315.00,4585.84
+244,Product-244,Clothing,Office Chair,18312.00,27528.25
+245,Product-245,Electronics,Office Chair,13504.00,18843.69
+246,Product-246,Home Appliances,Office Chair,2221.00,2803.38
+247,Product-247,Furniture,Denim,8811.00,14451.62
+248,Product-248,Furniture,Laptop,2488.00,3075.40
+249,Product-249,Electronics,Laptop,14610.00,19492.87
+250,Product-250,Furniture,Laptop,18364.00,24500.58
+251,Product-251,Clothing,Office Chair,2915.00,3564.19
+252,Product-252,Furniture,Office Chair,5330.00,7241.97
+253,Product-253,Electronics,Laptop,8040.00,11563.00
+254,Product-254,Clothing,Office Chair,4051.00,5674.27
+255,Product-255,Furniture,Smartphone,7753.00,10221.11
+256,Product-256,Furniture,Smartphone,2308.00,3615.90
+257,Product-257,Clothing,Dining Table,13382.00,16707.43
+258,Product-258,Furniture,Denim,20326.00,24844.41
+259,Product-259,Electronics,Office Chair,15956.00,25303.64
+260,Product-260,Home Appliances,Microwave,19546.00,28927.85
+261,Product-261,Furniture,Denim,15429.00,23387.00
+262,Product-262,Furniture,Microwave,12191.00,17858.55
+263,Product-263,Clothing,Denim,10028.00,15867.23
+264,Product-264,Electronics,Microwave,18170.00,24296.52
+265,Product-265,Home Appliances,Dining Table,7713.00,11106.34
+266,Product-266,Electronics,Smartphone,18417.00,26758.91
+267,Product-267,Furniture,Denim,8207.00,13255.58
+268,Product-268,Home Appliances,Office Chair,4137.00,6868.17
+269,Product-269,Clothing,Denim,10972.00,18081.55
+270,Product-270,Furniture,Dining Table,17374.00,21598.62
+271,Product-271,Home Appliances,Dining Table,6699.00,10175.93
+272,Product-272,Electronics,Smartphone,7094.00,9015.65
+273,Product-273,Clothing,Denim,19647.00,28940.91
+274,Product-274,Furniture,Laptop,7424.00,9032.85
+275,Product-275,Furniture,Office Chair,5836.00,9864.46
+276,Product-276,Home Appliances,Denim,2911.00,4924.55
+277,Product-277,Furniture,Microwave,8136.00,11485.45
+278,Product-278,Home Appliances,Laptop,5297.00,7559.90
+279,Product-279,Electronics,Office Chair,909.00,1141.97
+280,Product-280,Furniture,Laptop,14254.00,21665.79
+281,Product-281,Electronics,Office Chair,4530.00,6776.22
+282,Product-282,Electronics,Dining Table,19658.00,31748.62
+283,Product-283,Electronics,Microwave,12022.00,17117.70
+284,Product-284,Home Appliances,Smartphone,512.00,749.38
+285,Product-285,Clothing,Office Chair,10088.00,13433.20
+286,Product-286,Clothing,Office Chair,10472.00,14689.70
+287,Product-287,Home Appliances,Dining Table,17997.00,29569.75
+288,Product-288,Electronics,Smartphone,15087.00,23468.34
+289,Product-289,Furniture,Smartphone,1318.00,1906.77
+290,Product-290,Furniture,Smartphone,9513.00,11934.76
+291,Product-291,Furniture,Dining Table,12536.00,16607.16
+292,Product-292,Electronics,Microwave,7523.00,12743.66
+293,Product-293,Clothing,Dining Table,17796.00,28159.38
+294,Product-294,Furniture,Microwave,892.00,1347.34
+295,Product-295,Furniture,Denim,16525.00,20476.84
+296,Product-296,Furniture,Dining Table,6487.00,9358.43
+297,Product-297,Home Appliances,Office Chair,6350.00,8101.76
+298,Product-298,Home Appliances,Denim,10111.00,14770.09
+299,Product-299,Electronics,Office Chair,13954.00,20058.13
+300,Product-300,Furniture,Dining Table,10666.00,14806.47
+301,Product-301,Home Appliances,Denim,19030.00,28349.44
+302,Product-302,Clothing,Office Chair,12199.00,18935.62
+303,Product-303,Home Appliances,Laptop,6236.00,8576.27
+304,Product-304,Home Appliances,Smartphone,5617.00,9296.56
+305,Product-305,Electronics,Microwave,14075.00,19030.26
+306,Product-306,Furniture,Smartphone,8427.00,12835.37
+307,Product-307,Electronics,Microwave,675.00,922.25
+308,Product-308,Clothing,Office Chair,13395.00,16953.20
+309,Product-309,Home Appliances,Denim,4441.00,7101.94
+310,Product-310,Furniture,Smartphone,12286.00,19494.59
+311,Product-311,Clothing,Smartphone,6653.00,8638.64
+312,Product-312,Clothing,Smartphone,18986.00,27588.85
+313,Product-313,Furniture,Office Chair,6179.00,9349.48
+314,Product-314,Furniture,Smartphone,9411.00,11870.54
+315,Product-315,Clothing,Microwave,3445.00,5220.39
+316,Product-316,Home Appliances,Microwave,19139.00,30750.84
+317,Product-317,Home Appliances,Microwave,7326.00,12068.37
+318,Product-318,Home Appliances,Microwave,20206.00,27719.67
+319,Product-319,Home Appliances,Laptop,12452.00,20672.06
+320,Product-320,Home Appliances,Office Chair,3434.00,4489.32
+321,Product-321,Home Appliances,Office Chair,12373.00,18429.49
+322,Product-322,Clothing,Laptop,4686.00,7073.37
+323,Product-323,Home Appliances,Denim,10085.00,15691.17
+324,Product-324,Home Appliances,Laptop,17125.00,25347.21
+325,Product-325,Home Appliances,Laptop,4508.00,6382.17
+326,Product-326,Home Appliances,Microwave,5505.00,6673.31
+327,Product-327,Electronics,Laptop,15415.00,21929.62
+328,Product-328,Home Appliances,Laptop,11140.00,15305.66
+329,Product-329,Furniture,Microwave,13019.00,18997.68
+330,Product-330,Clothing,Smartphone,18267.00,22094.61
+331,Product-331,Electronics,Dining Table,16991.00,24483.20
+332,Product-332,Electronics,Dining Table,4298.00,6488.73
+333,Product-333,Furniture,Smartphone,7971.00,10669.88
+334,Product-334,Home Appliances,Office Chair,11525.00,14290.37
+335,Product-335,Home Appliances,Office Chair,17055.00,26425.03
+336,Product-336,Clothing,Dining Table,4505.00,7183.21
+337,Product-337,Furniture,Denim,12892.00,18910.55
+338,Product-338,Furniture,Laptop,931.00,1141.06
+339,Product-339,Electronics,Office Chair,8814.00,12043.58
+340,Product-340,Furniture,Office Chair,13502.00,18484.30
+341,Product-341,Clothing,Dining Table,2171.00,3611.70
+342,Product-342,Furniture,Microwave,6105.00,9535.78
+343,Product-343,Electronics,Laptop,1529.00,2280.77
+344,Product-344,Home Appliances,Denim,2304.00,2891.90
+345,Product-345,Clothing,Laptop,8903.00,11109.88
+346,Product-346,Home Appliances,Laptop,15431.00,20099.01
+347,Product-347,Electronics,Office Chair,9535.00,15722.78
+348,Product-348,Furniture,Dining Table,6117.00,8443.22
+349,Product-349,Furniture,Denim,17085.00,27204.28
+350,Product-350,Electronics,Laptop,14421.00,17456.88
+351,Product-351,Home Appliances,Denim,3121.00,4024.55
+352,Product-352,Furniture,Microwave,14990.00,24110.43
+353,Product-353,Clothing,Laptop,15339.00,25003.06
+354,Product-354,Furniture,Laptop,7619.00,10639.55
+355,Product-355,Clothing,Office Chair,18758.00,30732.91
+356,Product-356,Home Appliances,Laptop,15294.00,20861.50
+357,Product-357,Electronics,Microwave,3479.00,5476.14
+358,Product-358,Clothing,Office Chair,19276.00,28463.90
+359,Product-359,Furniture,Microwave,12759.00,16832.40
+360,Product-360,Home Appliances,Microwave,9606.00,15152.81
+361,Product-361,Clothing,Microwave,1226.00,1908.24
+362,Product-362,Home Appliances,Smartphone,16291.00,23287.93
+363,Product-363,Furniture,Dining Table,14452.00,18757.54
+364,Product-364,Furniture,Microwave,19960.00,25355.21
+365,Product-365,Furniture,Dining Table,14372.00,23993.41
+366,Product-366,Electronics,Smartphone,14604.00,18292.73
+367,Product-367,Electronics,Smartphone,14754.00,21094.39
+368,Product-368,Home Appliances,Denim,5159.00,8215.01
+369,Product-369,Electronics,Dining Table,13261.00,18512.17
+370,Product-370,Clothing,Microwave,1720.00,2651.47
+371,Product-371,Furniture,Smartphone,13855.00,22083.28
+372,Product-372,Clothing,Smartphone,18661.00,23129.06
+373,Product-373,Home Appliances,Denim,11352.00,16619.55
+374,Product-374,Home Appliances,Laptop,5372.00,8212.55
+375,Product-375,Home Appliances,Denim,20277.00,24670.74
+376,Product-376,Clothing,Laptop,15864.00,25570.75
+377,Product-377,Furniture,Dining Table,6291.00,8855.62
+378,Product-378,Furniture,Dining Table,14200.00,20245.27
+379,Product-379,Furniture,Microwave,3804.00,4952.76
+380,Product-380,Electronics,Laptop,9477.00,12693.13
+381,Product-381,Home Appliances,Microwave,9329.00,14186.17
+382,Product-382,Furniture,Laptop,17593.00,26420.85
+383,Product-383,Home Appliances,Laptop,9876.00,12885.66
+384,Product-384,Furniture,Smartphone,9917.00,13940.61
+385,Product-385,Clothing,Office Chair,5483.00,7176.02
+386,Product-386,Clothing,Office Chair,12011.00,15433.57
+387,Product-387,Electronics,Microwave,18509.00,25600.98
+388,Product-388,Clothing,Dining Table,6269.00,9379.01
+389,Product-389,Electronics,Microwave,11760.00,14207.02
+390,Product-390,Furniture,Laptop,10880.00,16004.08
+391,Product-391,Electronics,Dining Table,18524.00,30608.91
+392,Product-392,Furniture,Office Chair,19625.00,26538.00
+393,Product-393,Home Appliances,Microwave,14997.00,22732.59
+394,Product-394,Clothing,Microwave,15653.00,24235.79
+395,Product-395,Home Appliances,Smartphone,539.00,783.34
+396,Product-396,Home Appliances,Dining Table,16922.00,21612.17
+397,Product-397,Home Appliances,Laptop,9482.00,12101.68
+398,Product-398,Furniture,Dining Table,12216.00,15263.99
+399,Product-399,Home Appliances,Laptop,2580.00,3166.10
+400,Product-400,Home Appliances,Denim,19499.00,25259.75
+401,Product-401,Clothing,Office Chair,11806.00,14778.16
+402,Product-402,Electronics,Smartphone,9722.00,15471.96
+403,Product-403,Clothing,Dining Table,3583.00,4386.39
+404,Product-404,Home Appliances,Microwave,16128.00,19602.09
+405,Product-405,Clothing,Office Chair,5976.00,9816.95
+406,Product-406,Electronics,Office Chair,14024.00,22904.80
+407,Product-407,Furniture,Office Chair,11927.00,19286.69
+408,Product-408,Home Appliances,Office Chair,9652.00,12372.39
+409,Product-409,Home Appliances,Smartphone,9793.00,13209.54
+410,Product-410,Electronics,Office Chair,15735.00,19252.56
+411,Product-411,Furniture,Office Chair,18667.00,26786.24
+412,Product-412,Furniture,Office Chair,10925.00,15020.37
+413,Product-413,Clothing,Laptop,4823.00,6998.22
+414,Product-414,Furniture,Laptop,1625.00,2382.36
+415,Product-415,Furniture,Office Chair,13354.00,17059.06
+416,Product-416,Home Appliances,Smartphone,17105.00,22250.67
+417,Product-417,Home Appliances,Denim,17707.00,21634.01
+418,Product-418,Home Appliances,Microwave,4288.00,5546.67
+419,Product-419,Clothing,Laptop,11012.00,14513.75
+420,Product-420,Home Appliances,Dining Table,3359.00,5352.65
+421,Product-421,Furniture,Smartphone,13487.00,16871.57
+422,Product-422,Home Appliances,Smartphone,8114.00,11858.03
+423,Product-423,Furniture,Office Chair,1448.00,2236.87
+424,Product-424,Clothing,Laptop,1268.00,2043.20
+425,Product-425,Furniture,Dining Table,3386.00,4529.54
+426,Product-426,Furniture,Office Chair,9310.00,13127.01
+427,Product-427,Electronics,Office Chair,14051.00,20381.69
+428,Product-428,Furniture,Dining Table,17276.00,27822.76
+429,Product-429,Furniture,Denim,8899.00,11577.74
+430,Product-430,Furniture,Microwave,8358.00,10338.35
+431,Product-431,Electronics,Smartphone,917.00,1246.02
+432,Product-432,Furniture,Smartphone,13076.00,21609.04
+433,Product-433,Electronics,Smartphone,4419.00,6281.56
+434,Product-434,Electronics,Office Chair,15223.00,19185.37
+435,Product-435,Clothing,Dining Table,16683.00,25400.93
+436,Product-436,Electronics,Smartphone,6898.00,9404.47
+437,Product-437,Electronics,Laptop,11621.00,18851.06
+438,Product-438,Home Appliances,Office Chair,13045.00,20796.16
+439,Product-439,Furniture,Dining Table,6885.00,10241.56
+440,Product-440,Electronics,Office Chair,7055.00,11429.13
+441,Product-441,Electronics,Microwave,9386.00,14466.92
+442,Product-442,Furniture,Microwave,13076.00,20268.27
+443,Product-443,Electronics,Office Chair,12040.00,20071.27
+444,Product-444,Clothing,Office Chair,6638.00,9233.05
+445,Product-445,Clothing,Office Chair,2031.00,2999.73
+446,Product-446,Furniture,Smartphone,13508.00,20441.50
+447,Product-447,Furniture,Office Chair,18448.00,22374.64
+448,Product-448,Furniture,Denim,8308.00,12153.14
+449,Product-449,Electronics,Office Chair,1892.00,2364.54
+450,Product-450,Home Appliances,Microwave,6631.00,10231.15
+451,Product-451,Furniture,Dining Table,20247.00,25281.73
+452,Product-452,Home Appliances,Dining Table,5504.00,7084.62
+453,Product-453,Clothing,Laptop,13883.00,22667.29
+454,Product-454,Furniture,Denim,13323.00,21365.38
+455,Product-455,Furniture,Microwave,8446.00,10651.96
+456,Product-456,Clothing,Smartphone,15394.00,20808.79
+457,Product-457,Electronics,Laptop,15928.00,24600.27
+458,Product-458,Home Appliances,Laptop,18798.00,22765.83
+459,Product-459,Electronics,Dining Table,16674.00,20589.55
+460,Product-460,Clothing,Dining Table,19794.00,29349.08
+461,Product-461,Furniture,Laptop,10001.00,15903.87
+462,Product-462,Furniture,Laptop,9895.00,13134.95
+463,Product-463,Home Appliances,Laptop,6335.00,8638.72
+464,Product-464,Clothing,Dining Table,2398.00,3929.73
+465,Product-465,Electronics,Denim,17297.00,24409.25
+466,Product-466,Home Appliances,Dining Table,3155.00,3894.13
+467,Product-467,Clothing,Microwave,8933.00,11740.93
+468,Product-468,Clothing,Smartphone,814.00,1373.26
+469,Product-469,Furniture,Laptop,10440.00,15319.75
+470,Product-470,Electronics,Smartphone,18910.00,31086.10
+471,Product-471,Home Appliances,Office Chair,15207.00,21458.77
+472,Product-472,Electronics,Denim,5851.00,9522.11
+473,Product-473,Home Appliances,Microwave,9489.00,15107.64
+474,Product-474,Furniture,Laptop,2443.00,3909.72
+475,Product-475,Electronics,Dining Table,8949.00,14484.21
+476,Product-476,Home Appliances,Smartphone,1131.00,1653.80
+477,Product-477,Furniture,Smartphone,15420.00,21300.81
+478,Product-478,Home Appliances,Denim,5141.00,7941.28
+479,Product-479,Clothing,Smartphone,13541.00,18425.58
+480,Product-480,Furniture,Smartphone,9273.00,13332.11
+481,Product-481,Clothing,Microwave,14749.00,19071.98
+482,Product-482,Furniture,Dining Table,13319.00,22299.82
+483,Product-483,Furniture,Office Chair,6068.00,8940.80
+484,Product-484,Furniture,Microwave,3964.00,5561.64
+485,Product-485,Electronics,Denim,1643.00,2127.62
+486,Product-486,Furniture,Dining Table,5129.00,7530.99
+487,Product-487,Clothing,Laptop,15223.00,20420.80
+488,Product-488,Home Appliances,Microwave,8193.00,10237.71
+489,Product-489,Clothing,Laptop,16949.00,25851.49
+490,Product-490,Clothing,Microwave,5925.00,8574.50
+491,Product-491,Clothing,Microwave,6858.00,11356.40
+492,Product-492,Furniture,Smartphone,9421.00,15258.99
+493,Product-493,Home Appliances,Denim,9010.00,11890.70
+494,Product-494,Electronics,Microwave,7278.00,10213.62
+495,Product-495,Electronics,Office Chair,13364.00,18669.80
+496,Product-496,Home Appliances,Dining Table,2834.00,3746.50
+497,Product-497,Electronics,Laptop,9083.00,15319.43
+498,Product-498,Electronics,Dining Table,13143.00,19890.05
+499,Product-499,Home Appliances,Microwave,11417.00,14459.43
+500,Product-500,Home Appliances,Office Chair,14624.00,23055.99
