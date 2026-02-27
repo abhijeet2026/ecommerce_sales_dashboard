@@ -22,3 +22,4 @@ This project involves an end-to-end data pipeline for a large-scale E-commerce d
 - **Performance Optimization:** Leveraged **SQL Views** for heavy aggregations, reducing Power BI report refresh time by **40%**.
 
 ## 📊 Dashboard Preview
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/12e9af3d-fe7a-423f-840c-0652c2a4a277" />
